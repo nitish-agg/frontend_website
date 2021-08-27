@@ -1,3 +1,2 @@
 streamlit
 Image
-google.cloud

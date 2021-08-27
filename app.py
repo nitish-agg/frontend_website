@@ -32,7 +32,7 @@ if __name__ == '__main__':
             
        
         
-        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'batch-672-gan-monet.json'
+        os.environ['GOOGLE_APPLICATION_CREDENTIALS'] = 'google-credentials.json'
 
         storage_client = storage.Client()
 

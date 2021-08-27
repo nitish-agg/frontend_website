@@ -1,7 +1,7 @@
 import os
 import streamlit as st
 from PIL import Image
-# from google.cloud import storage
+from google.cloud import storage
 
     
 
